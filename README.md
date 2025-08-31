@@ -26,6 +26,7 @@ Built using **React (Vite)**, **Node/Express**, and **Tesseract.js** for text ex
 ---
 
 ## 📂 Project Structure
+```
 SocialMediaAnalyzer/
 │
 ├── client/                # React + Vite frontend
@@ -42,6 +43,7 @@ SocialMediaAnalyzer/
 ├── .gitignore
 ├── README.md
 └── package.json           # Root config (if any)
+```
 
 ---
 
@@ -55,6 +57,7 @@ Frontend
 
 
  
+
 
 
 
