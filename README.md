@@ -55,8 +55,25 @@ cd SocialMediaAnalyzer
 Install dependencies
 Frontend
 
+## Install dependencies
+```
+Frontend
+
+cd client
+npm install
+npm run dev
+
+
+Backend (optional)
+
+cd server
+npm install
+npm start
+```
+
 
  
+
 
 
 
