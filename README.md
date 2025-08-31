@@ -25,6 +25,27 @@ Built using **React (Vite)**, **Node/Express**, and **Tesseract.js** for text ex
 
 ---
 
+## Project Structure 
+SocialMediaAnalyzer/
+-
+-- client/ # React + Vite frontend
+---public/ # Static assets
+--- src/ # Components & logic
+---- App.jsx
+---- components/
+---- utils/
+---- package.json
+---- vite.config.js
+
+-- server/ # Node/Express backend (optional)
+--- index.js
+--- package.json
+--- routes/
+-
+--- .gitignore
+--- README.md
+--- package.json # Root config
+
 ## Setup & Installation
 
 ###  Clone the repo
@@ -35,6 +56,7 @@ Frontend
 
 
  
+
 
 
 
