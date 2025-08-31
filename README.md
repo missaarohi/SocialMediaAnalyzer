@@ -25,18 +25,6 @@ Built using **React (Vite)**, **Node/Express**, and **Tesseract.js** for text ex
 
 ---
 
-## Project Structure
-SocialMediaAnalyzer/
-client/ # React + Vite frontend
-src/ # UI components & logic
-public/ # Static assets
-vite.config.js
-server/ # Node/Express backend 
-index.js
-README.md # Project documentation
-
----
-
 ## Setup & Installation
 
 ###  Clone the repo
@@ -45,16 +33,9 @@ cd SocialMediaAnalyzer
 Install dependencies
 Frontend
 
-cd client
-npm install
-npm run dev
-Backend
 
-
-cd server
-npm install
-npm start
  
+
 
 
 
